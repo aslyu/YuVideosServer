@@ -1,0 +1,12 @@
+com\yu\pojo\UsersReport.class
+com\yu\pojo\vo\CommentsVO.class
+com\yu\pojo\vo\PublishVideoVO.class
+com\yu\pojo\Comments.class
+com\yu\pojo\Bgm.class
+com\yu\pojo\SearchRecords.class
+com\yu\pojo\Videos.class
+com\yu\pojo\Users.class
+com\yu\pojo\vo\UsersVO.class
+com\yu\pojo\UsersLikeVideos.class
+com\yu\pojo\vo\VideosVO.class
+com\yu\pojo\UsersFans.class

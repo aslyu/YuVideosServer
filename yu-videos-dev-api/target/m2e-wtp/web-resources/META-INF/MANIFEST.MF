@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: yu-videos-dev-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: H8u
+Implementation-Vendor-Id: com.yu
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/yu-videos-dev/yu-videos-dev-api
+Created-By: Maven Integration for Eclipse
+

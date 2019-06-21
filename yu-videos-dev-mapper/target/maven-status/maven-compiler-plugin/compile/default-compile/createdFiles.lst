@@ -1,0 +1,10 @@
+com\yu\mapper\UsersReportMapper.class
+com\yu\mapper\VideosMapperCustom.class
+com\yu\mapper\UsersFansMapper.class
+com\yu\mapper\VideosMapper.class
+com\yu\mapper\UsersMapper.class
+com\yu\mapper\CommentsMapperCustom.class
+com\yu\mapper\SearchRecordsMapper.class
+com\yu\mapper\CommentsMapper.class
+com\yu\mapper\UsersLikeVideosMapper.class
+com\yu\mapper\BgmMapper.class
