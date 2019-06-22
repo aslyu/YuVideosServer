@@ -15,6 +15,9 @@
     <result column="nickname" property="nickname" jdbcType="VARCHAR" />
     
     <result column="toNickname" property="toNickname" jdbcType="VARCHAR" />
+    
+    <result column="to_user_id" property="toUserId" jdbcType="VARCHAR" />
+    <result column="father_comment_id" property="fatherCommentId" jdbcType="VARCHAR" />
   </resultMap>
   
   <select id="queryComments" resultMap="BaseResultMap" parameterType="String">

@@ -1,7 +1,25 @@
 # Compiled class file
 *.class
 
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+/*/target/
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
 # Log file
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
 *.log
 
 # BlueJ files

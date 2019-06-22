@@ -106,10 +106,6 @@ public class ZKCuratorClient {
 					String bgmUrl = resourceConfig.getBgmServer() + finalPath;
 //					log.info("1. ============ filePath:{}", filePath);
 //					log.info("3. ============ bgmUrl:{}", bgmUrl);
-					System.out.println("这里"+finalPath);
-					System.out.println("这里"+finalPath2);
-					System.out.println("这里"+filePath);
-					System.out.println("这里"+bgmUrl);
 					if (operatorType.equals(BGMOperatorTypeEnum.ADD.type)) {
 						// 下载bgm到spingboot服务器
 						URL url = new URL(bgmUrl);

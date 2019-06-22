@@ -36,6 +36,7 @@
 	</properties>
   
 	<modules>
+		<module>yu-videos-dev-common</module>
 		<module>yu-videos-dev-pojo</module>
 		<module>yu-videos-dev-mapper</module>
 		<module>yu-videos-dev-service</module>
